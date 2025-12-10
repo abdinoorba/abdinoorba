@@ -94,11 +94,11 @@ Applied Splunk investigation to detect authentication anomalies, suspicious proc
 **CompTIA Security+**  
 **CompTIA Network+**  
 **Cloud Fundemantals**    
-**AI Security & Governance.**
-**Deloite Cyber Simulation.**
-**Datacom Cyber Simulation.**
-**Project Management Foundations**
-**Microsoft SC-900 (In progress)**
+**AI Security & Governance.**  
+**Deloite Cyber Simulation.**  
+**Datacom Cyber Simulation.**  
+**Project Management Foundations**  
+**Microsoft SC-900 (In progress)**  
 
 ---
 
