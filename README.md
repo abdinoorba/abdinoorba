@@ -86,6 +86,9 @@ A complete Microsoft Sentinel investigation including log analysis, KQL query de
 ### • [Splunk Log Analysis – Windows Security Events](https://youtu.be/puZCX9zwwNI?si=pYUjzIlr_1ndLlZe)  
 Applied Splunk investigation to detect authentication anomalies, suspicious processes, and host-based behaviours.
 
+### • [Microsoft Sentinel – Incident IP Enrichment Playbook](https://youtu.be/GSrQWSGoYVo?si=lJPL8W9vERui8cx_)  
+Configured and ran a Sentinel playbook that iterates over IP entities from incidents and performs automated enrichment.
+
 
 ---
 
