@@ -107,7 +107,7 @@ Configured and ran a Sentinel playbook that iterates over IP entities from incid
 
 ## **Contact**
 
-Open to opportunities in cybersecurity, GRC, SOC analysis, and related fields.  
+Open to opportunities in cybersecurity, SOC analysis, GRC, and related fields.  
 Connect with me on LinkedIn
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="abdinoorba" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/abdinoorba?trk=profile-badge">Abdinoor Ahmed</a></div>
               
