@@ -100,7 +100,7 @@ Configured and ran a Sentinel playbook that iterates over IP entities from incid
 **AI Security & Governance.**  
 **Deloite Cyber Simulation.**  
 **Datacom Cyber Simulation.**  
-**Project Management Foundations** 
+**Project Management Foundations**  
 **Splunk: Zero to Power User** 
 **Microsoft SC-900 (In progress)** 
 
