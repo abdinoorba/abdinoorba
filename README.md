@@ -65,6 +65,9 @@ Python • PowerShell • Bash •
 
 ## Featured Projects
 
+### • [Azure Tor Activity Detection](https://github.com/abdinoorba/azure-tor-activity-detection)  
+Threat-hunting detection in Microsoft Sentinel identifying Azure control-plane activity originating from Tor exit nodes, indicating potential credential compromise or anonymized administrative abuse.
+
 ### • [Web Traffic Investigation](https://github.com/abdinoorba/web-traffic-investigation)  
 Network forensics investigation analyzing HTTP patterns, suspicious behaviour, and indicators of reconnaissance.
 
