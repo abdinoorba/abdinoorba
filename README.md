@@ -83,13 +83,13 @@ A structured governance project assessing business context, threat exposure, con
 ### • [Email Phishing Triage](https://github.com/abdinoorba/email-phishing-triage)  
 SOC-style workflow for analyzing phishing attempts, authentication headers, and email infrastructure.
 
-### • [Microsoft Sentinel Brute Force Detection – SIEM Investigation Walkthrough](https://youtu.be/tQNMReRkInc?si=XfMKfwIcI9isBgN0)
+### • [Microsoft Sentinel Brute Force Detection – SIEM Investigation Walkthrough](https://youtu.be/kBQqC0ZjxN8?si=n8e0w_nxlwbHuSkL)
 A complete Microsoft Sentinel investigation including log analysis, KQL query development, authentication pattern recognition, and event correlation.
 
-### • [Splunk Log Analysis – Windows Security Events](https://youtu.be/puZCX9zwwNI?si=pYUjzIlr_1ndLlZe)  
+### • [Splunk Log Analysis – Windows Security Events](https://youtu.be/puZCX9zwwNI?si=mKEtnPRpLzm3koBy)  
 Applied Splunk investigation to detect authentication anomalies, suspicious processes, and host-based behaviours.
 
-### • [Microsoft Sentinel – Incident IP Enrichment Playbook](https://youtu.be/GSrQWSGoYVo?si=lJPL8W9vERui8cx_)  
+### • [Microsoft Sentinel – Incident IP Enrichment Playbook](https://youtu.be/GSrQWSGoYVo?si=jyQ7fzjrmOnt97Jr)  
 Configured and ran a Sentinel playbook that iterates over IP entities from incidents and performs automated enrichment.
 
 
