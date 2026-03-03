@@ -1,4 +1,4 @@
-# **Abdinoor Ahmed – Cybersecurity Analyst**
+# **Abdinoor Ahmed – IT & Security Operations | Data & Systems Analysis**
 
 <p align="center">
 
@@ -21,15 +21,16 @@
 
 ## **About Me**
 
-I am a cybersecurity professional with experience across governance, risk, compliance, security operations, and hands-on investigation workflows.  
-My work includes log analysis, risk assessments, SIEM query development, incident triage, control evaluation, and translating technical findings into clear, actionable insights.
-
-I focus on improving visibility, strengthening controls, and supporting secure decision-making across both technical and business environments.
+I am an IT and data-focused professional with experience across security operations, analytics, and enterprise systems. My work includes log analysis, dashboard reporting, investigation workflows, and translating technical findings into clear insights that support operational decision-making.
 
 ---
 
 ## **Core Competencies**
-
+- End-to-end application workflows including development, testing, deployment, and post-deployment validation to ensure stable production environments.
+- Power BI dashboard development and data visualization.
+- SQL-based data analysis and structured querying.
+- Data validation, cleaning, and reporting workflows.
+- Process documentation and reporting standardization.
 - Conducting structured risk assessments, identifying control gaps, evaluating business impact, and aligning controls with frameworks such as NIST CSF, ISO 27001/2702, COBIT, and SOC.
 - Performing end-to-end log investigations across Windows, Linux, network, email, and cloud sources to identify patterns, anomalies, and indicators of compromise.
 - Building SIEM queries (KQL, SPL) to detect brute-force attempts, persistence mechanisms, lateral movement, suspicious authentication, and cloud-based anomalies.
