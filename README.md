@@ -47,6 +47,12 @@ I am an IT and data-focused professional with experience across security operati
 
 ## **Tools & Technologies**
 
+### **Development & DevOps**
+Git • Docker • REST APIs • Node.js • Express • MySQL / MariaDB • Application Deployment • Environment Configuration • Debugging & Operational Support
+
+### **Data & Analytics**
+Power BI • Excel • SQL • Data Validation • Data Cleaning • Dashboard Development • Reporting Automation
+
 ### **Governance, Risk & Compliance**
 NIST CSF • ISO 27001/27002 • SOC 2 • COBIT • Control Testing • Risk Registers • Gap Analysis • Policy Review • Documentation
 
