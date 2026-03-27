@@ -104,6 +104,7 @@ Configured and ran a Sentinel playbook that iterates over IP entities from incid
 
 ## **Certifications**
 
+**Microsoft Certified: Security Operations Analyst Associate (SC-200)** 
 **CompTIA Security+**  
 **CompTIA Network+**  
 **Cloud Fundemantals**    
@@ -112,7 +113,6 @@ Configured and ran a Sentinel playbook that iterates over IP entities from incid
 **Datacom Cyber Simulation.**  
 **Project Management Foundations**  
 **Splunk: Zero to Power User**  
-**Microsoft SC-200 (In progress)** 
 
 ---
 
