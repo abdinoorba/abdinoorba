@@ -72,6 +72,9 @@ Python • PowerShell • Bash •
 
 ## Featured Projects
 
+### • [Windows AD Domain Lab](https://github.com/abdinoorba/windows-ad-domain-lab)  
+Deployed an enterprise-style Active Directory environment in Azure, implementing DNS-based domain services, user and OU management, and Group Policy enforcement to simulate centralized identity and access control.
+
 ### • [Azure Tor Activity Detection](https://github.com/abdinoorba/azure-tor-activity-detection)  
 Threat-hunting detection in Microsoft Sentinel identifying Azure control-plane activity originating from Tor exit nodes, indicating potential credential compromise or anonymized administrative abuse.
 
