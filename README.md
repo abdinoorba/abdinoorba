@@ -90,7 +90,7 @@ SOC-style workflow for analyzing phishing attempts using SPF, DKIM, and DMARC au
 
 ---
 
-### [Splunk Log Analysis: Windows Security Events](https://github.com/abdinoorba)
+### [Splunk Log Analysis: Windows Security Events](https://youtu.be/puZCX9zwwNI?si=AN4IJqCg1u_xLb3K)
 Applied SPL-based investigation to detect authentication anomalies, suspicious process execution, and host-based behavioural indicators across Windows security event logs.
 
 **Tools:** Splunk, SPL, Windows Security Events
